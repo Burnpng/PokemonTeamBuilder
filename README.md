@@ -27,6 +27,11 @@ A WPF application for building and analyzing Pokémon teams, supporting multiple
 4. **Run the application:**
 
 
+## Download the Latest Build
+Alterbatively you can download the latest build from the [Releases](https://github.com/Burnpng/PokemonTeamBuilder/releases) page.
+
+
+
    
 ## Usage
 
